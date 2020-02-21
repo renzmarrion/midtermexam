@@ -1,5 +1,5 @@
-### WebDev2 Midterm Exam Answer Sheet by Renz Marrion Tabugon
-# This repository contains my answers to Part 1, 2, 3, and 4.
+# WebDev2 Midterm Exam Answer Sheet by Renz Marrion Tabugon
+### This repository contains my answers to Part 1, 2, 3, and 4.
 
 ## Part 1 - Multiple Choice
 1. b
